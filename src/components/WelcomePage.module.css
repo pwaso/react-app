@@ -1,0 +1,36 @@
+.welcomepage{
+    width: 101.5%;
+    height: 85vh;
+    margin-top: 75px;
+    right: 20px;
+    background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
+    position: relative;
+    padding: 10 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading h1{
+    color: rgb(204, 21, 91);
+    margin-top: 250px;
+    font-size: 65px;
+    padding: 10px 0%;
+    
+}
+.h2{
+    color: #d38312;
+}
+.heading h6{
+
+    color:rgb(189, 6, 61);
+    font-size: 20px;
+}
+
+
+.backvideo{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
